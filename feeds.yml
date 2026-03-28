@@ -1,3 +1,4 @@
-feeds:
+tfeeds:
   - https://benhoyt.com/writings/rss.xml
   - https://martinfowler.com/feed.atom
+  - https://xetera.dev/rss.xml
